@@ -5,10 +5,10 @@ variable "key_name" {
   default = "jenkins_key4"
 }
 variable "ami_id" {
-  default = "ami-0ce71448843cb18a1"
+  default = "ami-00e8b55a2e841be44"
 }
 variable "region" {
-  default = "eu-west-1"
+  default = "eu-west-2"
 }
 
 variable "managed_by" {

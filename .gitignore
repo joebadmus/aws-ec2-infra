@@ -1,0 +1,9 @@
+servers/.terraform
+servers/terraform.tfstate
+
+
+infra/servers/.terraform/plugins/linux_amd64/lock.json
+infra/servers/.terraform/plugins/linux_amd64/terraform-provider-aws_v2.34.0_x4
+infra/servers/.terraform/plugins/linux_amd64/terraform-provider-template_v2.1.2_x4
+
+infra/servers/terraform.tfstate
